@@ -1,3 +1,8 @@
+# ⚡ FILESQUASH CLI
+
+A powerful **command-line tool** to manage, optimize, and organize your media library.  
+Easily compress videos, audios, and images with **FFmpeg**, remove duplicates, organize files, generate reports, and extract metadata — all from a single CLI.  
+
 # cli-Hacathon-raptors
 For Hackathon Raptors
 ## 🚀 CLI Commands
