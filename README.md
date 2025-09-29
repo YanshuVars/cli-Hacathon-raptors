@@ -32,3 +32,5 @@ For Hackathon Raptors
 - `--analyze` → Inspect technical details (codec, resolution, duration, bitrate)  
 - `--metadata` → Extract and display **EXIF / media metadata**  
 
+FFMPEG DOWLOAD LINK:-
+                 https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
